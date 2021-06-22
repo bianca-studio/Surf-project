@@ -1,0 +1,167 @@
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+}
+
+#mydiv1 {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader1 {
+  padding:0px;
+  cursor: auto;
+  z-index: 10;
+}
+
+#mydiv2 {
+  position: absolute;
+  z-index: 9;
+  background-color: #;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader2 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  background-color:;
+}
+
+#mydiv3 {
+  position: absolute;
+  z-index: 9;
+  background-color: ;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader3 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  background-color: ;
+}
+
+#mydiv4 {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader4 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  background-color: ;
+
+}
+
+#mydiv5 {
+  position: absolute;
+  z-index: 9;
+  background-color: ;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader5 {
+  padding:0px;
+  cursor: auto;
+  z-index: 10;
+  background-color: ;
+}
+
+#mydiv6 {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader6 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  background-color:;
+}
+
+#mydiv7 {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader7 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  color:;
+}
+
+#mydiv8 {
+  position: absolute;
+  z-index: 9;
+  background-color:;
+  text-align: center;
+  left: 487px;
+  top: 201px;
+}
+
+#mydivheader8 {
+  padding: 0px;
+  cursor: auto;
+  z-index: 10;
+  color:;
+}
+
+body, html{
+  height: 100%;
+  padding: 0px;
+}
+
+.bg {
+background-image: url("sticky.gif");
+height: 500%;
+width: 500%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.bg1 {
+background-image: url("surfsponge.png");
+height: 500%;
+width: 500%;
+background-position: center;
+background-repeat: repeat;
+background-size: cover;
+
+}
